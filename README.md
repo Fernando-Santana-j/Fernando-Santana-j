@@ -23,7 +23,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Fernando-Santana-j&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-Santana-j&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Fernando-Santana-j&bg_color=d2d1ff&color=000000&line=9900ff&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fernando-Santana-j&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Fernando-Santana-j&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
 
